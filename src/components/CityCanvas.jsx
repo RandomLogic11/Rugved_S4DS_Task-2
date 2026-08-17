@@ -59,7 +59,7 @@ export const POI_LANDMARKS = [
     name: 'Chrysler Building',
     height: '319m / 1,046 ft',
     description: 'Masterpiece of Art Deco architecture famous for its terraced crown and eagle gargoyles.',
-    position: [25, 16, -10],
+    position: [28, 16, -10],
     category: 'Architecture'
   },
   {
@@ -67,7 +67,7 @@ export const POI_LANDMARKS = [
     name: 'Central Park',
     area: '843 Acres',
     description: 'Urban green oasis with lush trees, pathways, and park grounds.',
-    position: [-65, 5, -15],
+    position: [-85, 4, -15],
     category: 'Park & Nature'
   },
   {
@@ -75,7 +75,7 @@ export const POI_LANDMARKS = [
     name: 'Times Square',
     vibe: 'Bustling Commercial Hub',
     description: 'Major commercial intersection, tourist destination, and entertainment center.',
-    position: [-25, 8, -10],
+    position: [-35, 6, -10],
     category: 'District'
   }
 ];
