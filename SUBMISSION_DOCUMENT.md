@@ -4,8 +4,8 @@
 
 ## 📌 Submission Information
 
-- **GitHub Repository Link**: `[PASTE_YOUR_GITHUB_REPO_LINK_HERE]` *(e.g. https://github.com/Rugved/S4DS_Task-2)*
-- **Deployed Live Link**: `[PASTE_YOUR_DEPLOYED_WEBSITE_LINK_HERE]` *(e.g. https://manhattan-3d-world.vercel.app)*
+- **GitHub Repository Link**: https://github.com/RandomLogic11/Rugved_S4DS_Task-2.git
+- **Deployed Live Link**: https://rugved-s4ds-task-2.vercel.app/
 - **Author / Developer**: Rugved
 - **Development Branch**: `Rugved_dev`
 
