@@ -38,11 +38,11 @@ export default function UIOverlay({
   onOpenReport
 }) {
   const cameraPresets = [
-    { id: 'skyline', label: 'Skyline', icon: Eye, position: [180, 120, 180], lookAt: [0, 0, 0] },
-    { id: 'street', label: 'Street View', icon: Compass, position: [-15, -4, -20], lookAt: [-10, -5, -15] },
-    { id: 'downtown', label: 'Downtown', icon: Building, position: [-90, 60, 120], lookAt: [-50, 20, 70] },
-    { id: 'birdsEye', label: 'Bird\'s Eye', icon: Camera, position: [0, 320, 10], lookAt: [0, 0, 0] },
-    { id: 'timesSquare', label: 'Times Square', icon: Sparkles, position: [-25, 25, -20], lookAt: [-15, 10, -30] }
+    { id: 'skyline', label: 'Skyline', icon: Eye, position: [140, 100, 140], lookAt: [0, 0, 0] },
+    { id: 'street', label: 'Street View', icon: Compass, position: [-10, 2, -5], lookAt: [0, 0, -2] },
+    { id: 'downtown', label: 'Downtown', icon: Building, position: [-70, 45, 45], lookAt: [-42, 10, 2] },
+    { id: 'birdsEye', label: 'Bird\'s Eye', icon: Camera, position: [0, 220, 0], lookAt: [0, 0, 0] },
+    { id: 'timesSquare', label: 'Times Square', icon: Sparkles, position: [-25, 20, -20], lookAt: [-12, 6, -10] }
   ];
 
   return (
