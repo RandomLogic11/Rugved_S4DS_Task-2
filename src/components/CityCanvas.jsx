@@ -36,14 +36,14 @@ class CanvasErrorBoundary extends Component {
   }
 }
 
-// Landmark Points of Interest (POIs) calibrated directly to 3D model geometry
+// Landmark Points of Interest (POIs) mapped directly to real Manhattan 3D geometry
 export const POI_LANDMARKS = [
   {
     id: 'esb',
     name: 'Empire State Building',
     height: '443m / 1,454 ft',
     description: 'Iconic 102-story Art Deco skyscraper in Midtown Manhattan, completed in 1931.',
-    position: [0, 12, -2],
+    position: [5, 22, -5],
     category: 'Architecture'
   },
   {
@@ -51,7 +51,7 @@ export const POI_LANDMARKS = [
     name: 'One World Trade Center',
     height: '541m / 1,776 ft',
     description: 'The tallest building in the Western Hemisphere, standing at a symbolic 1,776 feet.',
-    position: [-42, 16, 2],
+    position: [-12, 28, 125],
     category: 'Landmark'
   },
   {
@@ -59,7 +59,7 @@ export const POI_LANDMARKS = [
     name: 'Chrysler Building',
     height: '319m / 1,046 ft',
     description: 'Masterpiece of Art Deco architecture famous for its terraced crown and eagle gargoyles.',
-    position: [18, 12, -8],
+    position: [30, 18, -20],
     category: 'Architecture'
   },
   {
@@ -67,7 +67,7 @@ export const POI_LANDMARKS = [
     name: 'Central Park',
     area: '843 Acres',
     description: 'Urban oasis situated between Upper West & Upper East sides of Manhattan.',
-    position: [-35, 4, -28],
+    position: [0, 6, -112],
     category: 'Park & Nature'
   },
   {
@@ -75,7 +75,7 @@ export const POI_LANDMARKS = [
     name: 'Times Square',
     vibe: 'Bustling Commercial Hub',
     description: 'Major commercial intersection, tourist destination, and entertainment center.',
-    position: [-12, 6, -10],
+    position: [-12, 10, -18],
     category: 'District'
   }
 ];
