@@ -5,7 +5,7 @@
 ## 📌 Submission Information
 
 - **GitHub Repository Link**: https://github.com/RandomLogic11/Rugved_S4DS_Task-2.git
-- **Deployed Live Link**: https://rugved-s4ds-task-2.vercel.app/
+- **Deployed Live Link**: https://rugved-s4-ds-task-2.vercel.app/
 - **Author / Developer**: Rugved
 - **Development Branch**: `Rugved_dev`
 
